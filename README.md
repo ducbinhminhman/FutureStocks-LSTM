@@ -45,3 +45,6 @@ The gaps in the test graph could be a sign that the model needs to learn from mo
 
 ## Looking Ahead
 This project is just the beginning. There's so much more to explore with AI in finance. We could try using different kinds of data, tweaking the model, or testing out new methods to get even better results.
+
+## Learn More
+For a more detailed discussion of this project, including insights into the LSTM model and our approach to predicting stock prices, check out my Medium article: [AI & Finance: Launching Your Journey in LSTM Stock Predictions](https://medium.com/@bnhminh_38309/a-beginners-guide-to-predicting-stock-prices-with-lstm-networks-278070252731).
